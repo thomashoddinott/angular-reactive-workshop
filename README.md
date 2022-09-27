@@ -1,5 +1,3 @@
-<u>add to master branch when done</u>
-
 # My Notes
 
 Navigate through each step via its respective branch :arrow_right:
